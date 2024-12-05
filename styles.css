@@ -1,0 +1,21 @@
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-mode .form-control {
+    background-color: #333333;
+    color: #ffffff;
+    border-color: #444444;
+}
+
+.dark-mode .list-group-item {
+    background-color: #333333;
+    color: #ffffff;
+    border-color: #444444;
+}
+
+.dark-mode .btn-primary {
+    background-color: #0062cc;
+    border-color: #004bb5;
+}
